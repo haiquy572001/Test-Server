@@ -1,0 +1,9 @@
+{
+    "apps": [
+      {
+        "name": "Blog",
+        "script": "yarn",
+        "args": "start"
+      }
+    ]
+  }
