@@ -13,6 +13,14 @@ function App() {
         >
           Hai Quy Blog
         </a>
+        <a
+          className="App-link"
+          href="https://www.facebook.com/QuyST1505/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Day la Blog
+        </a>
       </header>
     </div>
   );
